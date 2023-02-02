@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.mainNav{
+    color: #fff;
+    margin-top: -1068px;
+    
+}
+header.typeNav{
+    text-align: center;
+}
+.typeLi{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    
+} .typeLi a{
+    text-decoration: none;
+}
+
+li {
+    text-decoration: none;
+    margin: 20px;
+    margin-top: -30px;
+} 
+
+.typeImg{
+    float: right;
+    color: #fff;
+}
+
+.typeOrder{
+    float: left;
+}
+.paragraphe{
+    color: #fff;
+}
